@@ -1,0 +1,9 @@
+{
+  "name": "personal-website",
+  "version": "2.0.0",
+  "description": "Personal website (portfolio) of Wesley de Bruijn",
+  "main": "index.js",
+  "repository": "https://github.com/wesleydebruijn/personal-website.git",
+  "author": "Wesley de Bruijn",
+  "license": "MIT"
+}
