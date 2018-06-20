@@ -7,7 +7,7 @@ layout: default
 # Hi! ;)
 
 ## Who I am
-My name is Wesley, a 23 years old living in Zoetermeer, The Netherlands.
+My name is Wesley, a 23-year-old living in Zoetermeer, The Netherlands.
 
 I've been interested in Computer Science since age 13, when I started creating my first static websites using HTML. Now, 10 years later, I'm doing it for a living.
 
