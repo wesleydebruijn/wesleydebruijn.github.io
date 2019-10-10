@@ -7,29 +7,13 @@ layout: default
 # Hi! ;)
 
 ## Who I am
-My name is Wesley, a 23-year-old living in Zoetermeer, The Netherlands.
-
-I've been interested in Computer Science since age 13, when I started creating my first static websites using HTML. Now, 10 years later, I'm doing it for a living.
+My name is Wesley, a 24-year-old living in Zoetermeer, The Netherlands.
 
 ## What I do
 
-I am currently working at [Mobiel.nl](http://www.mobiel.nl) as a back-end developer.
+I'm currently working at [Mobiel.nl](http://www.mobiel.nl) as a back-end developer, but also doing some front-end work when I get the chance.
 
-Started working at [Mobiel.nl](http://www.mobiel.nl) in May 2017, shortly after getting my CS degree. I've previously worked at various small software companies for either a parttime job or an internship during my time at University.
+### What I focus on
+<img src="https://d1q6f0aelx0por.cloudfront.net/product-logos/cb773227-1c2c-42a4-a527-12e6f827c1d2-elixir.png" height="66"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Ruby_logo.svg/1024px-Ruby_logo.svg.png" height="66"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Unofficial_JavaScript_logo_2.svg/480px-Unofficial_JavaScript_logo_2.svg.png" height="66">
 
-> Debating technical issues and solving complex algorithms is what makes my job awesome.
-
-### I have experience with
-
-![Ruby](assets/ruby.png)
-![JS](assets/js.png)
-![php](assets/php.jpg)
-
-
-## What I also like to do
-- Watching movies & TV series, especially in the cinema
-- Reading work related articles, books and papers
-- Trying out all sorts of beers
-- Working on my home automation project
-
-_Last updated: June 20, 2018_
+_Last updated: October 10, 2019_
